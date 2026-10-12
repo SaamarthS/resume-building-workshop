@@ -1,0 +1,28 @@
+# Operating System Artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LaTeX compilation temporaries
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.out
+*.log
+
+# Office temporary lock files
+~$*
+
+# Temporary scratch and environment files
+scratch/
+*.tmp

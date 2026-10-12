@@ -1,0 +1,78 @@
+JOHN DOE RESUME — EXPECTED FLAWS
+Facilitator reference for the opening discussion
+
+Purpose
+Use this list as an answer key after students inspect the resume. Students may notice different issues first; they do not need to identify every point in the opening 20 seconds.
+
+1. TOO MANY SKILLS, WITH NO CATEGORIES
+- Fifteen technologies are listed in one long, ungrouped line.
+- Languages, frameworks, databases, platforms and tools are mixed together.
+- The list does not indicate which skills are strongest or most relevant.
+- Listing a technology does not prove competence in it.
+- The resume gives no evidence that John can explain or defend every listed technology.
+
+2. GENERIC PROJECT DESCRIPTIONS
+- “Made a website using React and Node” does not explain what the e-commerce website does.
+- “Created a machine learning model using Python” does not explain the disease-prediction problem or the model.
+- “Built a to-do list using HTML, CSS and JavaScript” describes only the basic idea.
+- The bullets do not explain the technical decisions, implementation details or challenging parts.
+- The reader cannot tell what John personally contributed to each project.
+- The project titles sound descriptive, but the bullets provide little evidence of technical depth.
+
+3. NO EVIDENCE OF RESULTS OR IMPACT
+- No outcomes, evaluation results, real metrics, demonstrations or other evidence are given.
+- The reader cannot judge how well the projects worked or what was achieved.
+- There are no links to a GitHub repository, live demo or other supporting evidence. (These are absent, not necessarily required for every project.)
+- Metrics should not simply be added to make the resume sound impressive; any result must be real and defensible.
+
+4. PROJECT SELECTION IS NOT JUSTIFIED
+- Three projects are listed without explaining their relevance to a target role.
+- The resume does not show which projects best demonstrate John's abilities.
+- The reader cannot assess the complexity or depth of the projects from the current descriptions.
+- The number of projects alone does not make the resume strong; two or three well-explained projects can be more useful than many shallow ones.
+
+5. ACHIEVEMENTS SECTION CONTAINS FILLER
+- “Participated in hackathons” is vague: no event, role, project, result or award is specified.
+- “Interested in coding” is a general interest, not a demonstrated achievement.
+- “Good problem solver” is an unsupported claim rather than evidence.
+- These statements take up space without showing a concrete skill or accomplishment.
+- Relevant achievements should be specific and factual; do not invent awards or outcomes.
+
+6. NO TARGETING OR CLEAR DIRECTION
+- The resume does not identify a target role, such as software development, machine learning or data science.
+- The skills and projects are not prioritised for any particular opportunity.
+- Relevance depends on the role being pursued; a resume should be tailored when appropriate.
+
+7. LIMITED EVIDENCE OF OWNERSHIP
+- The bullets do not say which parts John designed, implemented, tested or integrated.
+- They do not distinguish individual work from team contributions, if any.
+- The reader cannot tell how independently John worked or what he learned technically.
+
+8. CONTENT COULD BE MORE PRECISE
+- “Node” is less precise than “Node.js” if Node.js is what the candidate actually used.
+- “ML Disease Prediction” is a broad project title; the problem and scope are unclear.
+- The resume does not state what the disease-prediction model predicts, what data it uses or how it was evaluated. Those details should be included only if known and true.
+- The e-commerce project does not identify any specific functionality or engineering contribution.
+- The To-Do App description mostly repeats what the project title already tells the reader.
+
+9. RESUME SECTIONS AND EVIDENCE
+- The resume has Education, Skills, Projects and Achievements, but no contact links beyond location.
+- There is no GitHub, portfolio or LinkedIn link to help a reader inspect the work. These are possible improvements, not mandatory for every student.
+- No Experience or Positions of Responsibility section is included. This is not automatically a flaw; sections should be included only when they add useful, relevant evidence.
+- The CGPA of 8.6 is specific, but no other academic or practical evidence supports the skills and project claims.
+
+10. QUESTIONS A RECRUITER MIGHT ASK
+- What exactly did you build in the e-commerce website?
+- Which parts did you personally implement?
+- What does the disease-prediction model predict, and how did you evaluate it?
+- Why did you choose these technologies?
+- Can you demonstrate or share the code for these projects?
+- Which of these skills could you confidently discuss in an interview?
+- What happened at the hackathons you participated in?
+
+IMPORTANT FACILITATOR NOTES
+- The original guide expects students to identify issues such as too many skills, generic project bullets, lack of evidence, weak project selection, no targeting and unnecessary filler.
+- Do not treat every missing section or link as automatically wrong. A resume should include only sections that add evidence or relevance.
+- The source does not provide additional project facts, metrics, awards or personal contact details. Do not invent them when creating the improved version.
+- The resume's visual formatting is now reasonably clean. The main teaching focus should be the substance and credibility of the content, not claiming that the layout is terrible.
+- A strong project bullet follows: ACTION + WHAT YOU BUILT + HOW/TECHNOLOGY + RESULT/IMPACT. If no real metric exists, describe the technical outcome instead.
